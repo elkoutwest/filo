@@ -16,8 +16,6 @@ import javax.swing.JFrame;
  * 
  * TODO load common phylo file formats
  * 
- * @author raphaelkargon
- * @version 0.1
  */
 public class Phylogenetics {
 
