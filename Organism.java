@@ -2,8 +2,6 @@ import java.util.Arrays;
 
 /**
  * Stores data of one organism, or sample.
- * 
- * @author raphaelkargon
  *
  */
 public class Organism<T> {
