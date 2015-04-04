@@ -14,8 +14,6 @@ import javax.swing.DebugGraphics;
  * TODO output to tree file formats
  * TODO constructor using tree file format
  * 
- * @author raphaelkargon
- * @version 0.2
  */
 public class PhyloTree {
 	public double branchlength = 0; //length of branch leading up to the node
