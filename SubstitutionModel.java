@@ -2,8 +2,6 @@
  * Describes a substitution model, along with methods to find the "distance"
  * between two traits.
  * 
- * @author raphaelkargon
- * 
  * @param <T>
  *            The type of characteristic used in this model.
  */
